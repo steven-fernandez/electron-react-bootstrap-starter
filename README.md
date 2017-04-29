@@ -1,4 +1,4 @@
-# sf-electron-starter
+# electron-react-bootstrap-starter
 > A starter app using Electron, electron-prebuilt-compile, React, ESLint, Babel and Bootstrap 3.
 
 With:
@@ -20,7 +20,6 @@ This boilerplate uses the following technology:
 - [React](https://facebook.github.io/react/): the UI
 - [Babel](http://babeljs.io/): a JavaScript compiler
 - [react-devtools](https://github.com/facebook/react-devtools): an extension of Chrome's developer tools for React components. Installed using [electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer)
-- [cross-env](https://www.npmjs.com/package/cross-env): set environment scripts for running the app
 - [Bootstrap 3](http://getbootstrap.com/)
 
 
@@ -32,11 +31,9 @@ This boilerplate uses the following technology:
 
 ### Install the app
 ```bash
-git clone https://github.com/stevenfernandez/sf-electron-starter.git
-cd sf-electron-starter
+git clone https://github.com/steven-fernandez/electron-react-bootstrap-starter.git
+cd electron-react-bootstrap-starter
 npm install
 npm start
-```
----
 
-# sf-electron-starter
+---
