@@ -3,12 +3,12 @@
 
 Includes:
 
-Electron
-Electron Compile
-React 15.5.4
-ESLint
+Electron,
+Electron Compile,
+React 15.5.4,
+ESLint,
 Bootstrap 3
-Babel
+and Babel
 
 Out of the box.
 
