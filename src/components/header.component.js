@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import styles from './header.component.styles';
 
 class Header extends Component {
   render() {
     return (
-      <div>
+      <div style={styles.HeaderWrapper}>
         <div className="row">
           <div className="col-md-12">
             <div className="jumbotron">
