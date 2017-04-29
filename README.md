@@ -1,7 +1,7 @@
 # electron-react-bootstrap-starter
 > A starter app using Electron, electron-prebuilt-compile, React, ESLint, Babel and Bootstrap 3.
 
-With:
+Includes:
 
 Electron
 Electron Compile
@@ -10,6 +10,11 @@ ESLint
 Bootstrap 3
 Babel
 
+Out of the box.
+
+---
+
+Libraries last update: 29 April 2017
 
 ---
 
