@@ -10,7 +10,7 @@ function createWindow () {
     height: 1000,
     minWidth: 600,
     minHeight: 400,
-    title: 'SF Electron Starter'
+    title: 'Electron-React-Bootstrap-Starter'
   })
 
 
