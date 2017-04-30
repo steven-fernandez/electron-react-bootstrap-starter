@@ -4,7 +4,7 @@ import Header from '../header.component';
 import Blog from "../blog.component";
 import Footer from '../footer.component';
 
-class Layout extends Component {
+class Home extends Component {
   render() {
     return (
       <div>
@@ -20,5 +20,5 @@ class Layout extends Component {
   }
 }
 
-export default Layout;
+export default Home;
 

@@ -1,6 +1,13 @@
 import React from 'react';
-import ReactDom from 'react-dom';
+import ReactDOM from 'react-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 
-import Layout from './src/components/pages/home';
+import Home from './src/components/pages/home';
 
-ReactDom.render(<Layout />, document.getElementById('app'))
+ReactDOM.render((
+  <Router>
+    <div>
+      <Route exact path="/" component={Home} />
+    </div>
+  </Router>
+), document.getElementById('app'));
