@@ -1,11 +1,12 @@
 # Electron-react-bootstrap-starter
-> A starter app using Electron, electron-prebuilt-compile, React, ESLint, Babel and Bootstrap 3.
+> A starter app using Electron, electron-prebuilt-compile, React, React Router, ESLint, Babel and Bootstrap 3.
 
 Includes:
 
 Electron,
 Electron Compile,
 React 15.5.4,
+React Router,
 ESLint,
 Bootstrap 3
 and Babel
