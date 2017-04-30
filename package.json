@@ -1,7 +1,7 @@
 {
   "name": "electron-react-bootstrap-starter",
   "version": "1.0.0",
-  "description": "A starter app using Electron, electron-prebuilt-compile, React, ESLint, Babel and Bootstrap 3.",
+  "description": "A starter app using Electron, electron-prebuilt-compile, React, React Router, ESLint, Babel and Bootstrap 3.",
   "author": "Steven Fernandez",
   "license": "MIT",
   "main": "main.js",
